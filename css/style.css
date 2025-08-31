@@ -83,10 +83,11 @@
 }
 
 /* ------Common-Css------------- */
-/* 
+
 html {
-    scroll-behavior: smooth
-} */
+    scroll-behavior: smooth;
+    scroll-padding-top: 50px;
+} 
 
 body {
     margin: 0;
